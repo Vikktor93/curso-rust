@@ -24,5 +24,29 @@ pub fn main(){
     println!("{}", numero1 -1); // en el momento que se este ejecutando se resta 1 (pero no cambia su valor original)
     println!("{numero1}"); // sigue valiendo 20
 
+    // Número Flotantes
+    println!("\n========= NÚMEROS FLOTANTES =========");
+    let mut peso: f64 = 70.5;
+    println!("Mi peso es de: {peso}");
+
+    // peso = peso + 20; // error, como es un lenguaje de tipado extricto no se puede sumar un int y un float
+
+    peso = 75.5;
+    println!("Peso actual: {peso}");
+
+
+    // Booleanos
+    println!("\n========= BOOLEANOS =========");
+    let mut booleano: bool = false;
+    println!("{booleano}");
+
+    booleano = true;
+    println!("{booleano}");
+
+
+    // Constantes
+    const PI: f64 = 3.14159; // se usa la palabra reservada const
+    // PI = 3.14;   No se puede cambiar el valor de una constante
+    println!("{PI}");
 
 }
