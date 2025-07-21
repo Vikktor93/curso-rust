@@ -1,0 +1,9 @@
+# Artefactos de compilación
+/target/                      
+/**/*.exe
+/**/*.pdb
+
+# Otros archivos binarios
+/**/*.dll
+/**/*.so
+/**/*.dylib
