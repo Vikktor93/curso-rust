@@ -22,7 +22,7 @@ pub fn main(){
 
     // Constantes
     println!("\n========= CONSTANTES =========");
-    const PI: f64 = 3.14159; // se usa la palabra reservada const
+    const PI: f64 = 3.14159; // se usa la palabra reservada const - Tampoco se puede usar 'mut'
     // PI = 3.14;   No se puede cambiar el valor de una constante
     println!("{PI}");
 }
