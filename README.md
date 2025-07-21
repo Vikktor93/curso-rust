@@ -93,4 +93,4 @@ Si quieres enfocarte en un único capítulo:
 
 
 ### Licencia
-Este proyecto está bajo la Licencia MIT. Siéntete libre de usar, modificar y distribuir.
+Este proyecto está bajo la [Licencia MIT](https://github.com/Vikktor93/curso-rust/blob/main/LICENSE). Siéntete libre de usar, modificar y distribuir.
