@@ -38,7 +38,7 @@ Si no tienes Rust instalado, sigue la guía oficial:
 ```bash
 # Clona el repositorio
 git clone https://github.com/Vikktor93/curso-rust
-cd rust-basico
+cd curso-rust
 
 # Compila dependencias
 cargo build
@@ -88,7 +88,7 @@ Si quieres enfocarte en un único capítulo:
 | Archivo                          | Tema                                               |
 | -------------------------------- | ---------------------------------------------------|
 | `cap01_variables.rs`             | Variables, mutabilidad, interporlación             |
-| `cap02_tipos_de_datos.rs`        | Enteros, flotantes, `bool`, `char`, tuplas, arrays |
+| `cap02_tipos_de_datos.rs`        | Enteros, flotantes, bool, strings, tuplas, arrays  |
 | ...                              | ...                                                |
 
 
