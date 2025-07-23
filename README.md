@@ -88,7 +88,8 @@ Si quieres enfocarte en un único capítulo:
 | Archivo                          | Tema                                               |
 | -------------------------------- | ---------------------------------------------------|
 | `cap01_variables.rs`             | Variables, mutabilidad, interporlación             |
-| `cap02_tipos_de_datos.rs`        | Enteros, flotantes, bool, strings, tuplas, arrays  |
+| `cap02_tipos_de_datos.rs`        | Enteros, flotantes, bool, strings, char            |
+| `cap03_control_de_flujo.rs`      | if, else, else if, loop, while, for                |
 | ...                              | ...                                                |
 
 
