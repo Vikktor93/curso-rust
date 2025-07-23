@@ -1,5 +1,6 @@
 pub fn main(){
  // Tipo de dato String
+    println!("========= STRINGS =========");
     let pais: String = String::from("Chile"); // cadena de texto dinámica (tamaño en memoria cambia en tiempo de ejecución)
     println!("El país donde vivo es {pais}\n");
 
@@ -21,7 +22,6 @@ pub fn main(){
     peso = 75.5;
     println!("Peso actual: {peso}");
 
-
     // Booleanos
     println!("\n========= BOOLEANOS =========");
     let mut booleano: bool = false;
@@ -29,6 +29,11 @@ pub fn main(){
 
     booleano = true;
     println!("{booleano}");
+
+    // Char
+    println!("\n========= CHAR =========");
+    let letra: char = 'A'; // un solo caracter
+    println!("{letra}");
 
 
 }
